@@ -1,0 +1,11 @@
+name: Offense_Metrics
+title: Offense_Metrics
+username:
+account: seththedatascientist
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5660272
+bundleId: 7680597
+url: https://seththedatascientist.shinyapps.io/Offense_Metrics/
+asMultiple: FALSE
+asStatic: FALSE
